@@ -2,7 +2,7 @@
 
 ## Description
 
-![](weather-app.JPG)
+![image](weather.jpeg)
 
 Create an app that uses [openweather.org](https://openweathermap.org/guide) to grab the current weather in a location of your choice.
 
